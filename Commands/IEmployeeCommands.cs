@@ -2,5 +2,6 @@
 {
     public interface IEmployeeCommands
     {
+        void SaveEmployeeData(Employee employee);
     }
 }
